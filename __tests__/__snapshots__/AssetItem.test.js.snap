@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AssetItem renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#F8F9FA",
+      "borderRadius": 8,
+      "elevation": 3,
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "marginBottom": 8,
+      "marginHorizontal": 6,
+      "paddingHorizontal": 8,
+      "paddingVertical": 12,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.1,
+      "shadowRadius": 4,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flex": 3,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <Image
+      source={
+        {
+          "uri": "https://example.com/btc.png",
+        }
+      }
+      style={
+        {
+          "borderRadius": 16,
+          "height": 32,
+          "marginRight": 12,
+          "width": 32,
+        }
+      }
+    />
+    <View
+      style={
+        {
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#1A1A1A",
+            "fontSize": 16,
+            "fontWeight": "600",
+          }
+        }
+      >
+        Bitcoin
+      </Text>
+      <Text
+        style={
+          {
+            "color": "#888",
+            "fontSize": 14,
+          }
+        }
+      >
+        BTC
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flex": 3,
+        "justifyContent": "center",
+        "marginLeft": 20,
+      }
+    }
+  >
+    <LineChart
+      contentInset={
+        {
+          "bottom": 10,
+          "top": 10,
+        }
+      }
+      curve={[Function]}
+      data={
+        [
+          49000,
+          50000,
+          51000,
+          50500,
+          50000,
+        ]
+      }
+      style={
+        {
+          "height": 40,
+          "width": 60,
+        }
+      }
+      svg={
+        {
+          "stroke": "#00C087",
+          "strokeWidth": 2,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "flex-end",
+        "flex": 3,
+      }
+    }
+  >
+    <Text
+      collapsable={false}
+      style={
+        {
+          "color": "#1A1A1A",
+          "fontSize": 16,
+          "fontWeight": "600",
+          "opacity": 1,
+        }
+      }
+    >
+      ₹50,000.00
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 14,
+          },
+          {
+            "color": "#00C087",
+          },
+        ]
+      }
+    >
+      +
+      5.00
+      %
+    </Text>
+  </View>
+</View>
+`;
