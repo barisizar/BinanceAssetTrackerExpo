@@ -17,7 +17,7 @@ This is an Expo project for tracking cryptocurrency assets using the Binance API
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/binance-asset-tracker.git
+   git clone https://github.com/barisizar/BinanceAssetTrackerExpo.git
    cd binance-asset-tracker
    ```
 
