@@ -1,9 +1,10 @@
 # Binance Asset Tracker
 
 This is an Expo project for tracking cryptocurrency assets using the Binance API.
-![simulator_screenshot_D989B108-9755-4415-A765-2BC396287656](https://github.com/barisizar/BinanceAssetTrackerExpo/assets/54599797/4ef270ee-cf00-4cd2-902f-da8d832c2234)
 
-![simulator_screenshot_9C8D5B67-E279-4BD9-8D14-5BB1356E565D](https://github.com/barisizar/BinanceAssetTrackerExpo/assets/54599797/e03c7508-0c8e-4194-a4e6-4f0874b4608c)
+<img src="https://github.com/barisizar/BinanceAssetTrackerExpo/assets/54599797/4ef270ee-cf00-4cd2-902f-da8d832c2234" alt="simulator_screenshot_1" width="300"/>
+
+<img src="https://github.com/barisizar/BinanceAssetTrackerExpo/assets/54599797/e03c7508-0c8e-4194-a4e6-4f0874b4608c" alt="simulator_screenshot_2" width="300"/>
 
 
 ## Prerequisites
